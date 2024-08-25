@@ -17,3 +17,4 @@ Contact Information:
   <https://www.codewars.com/users/ddurant94>
 
 About:
+In this program, I set up endpoints for a video database where users can search for titles and view all available titles. Under the hood, I use binary and merge sort algorithms to search and alphabetize video titles within the database. To learn more, please refer to my docs.txt.
